@@ -15,5 +15,5 @@ This project showcases an animated version of my university logo using [Rive](ht
 - **JavaScript** – (optional, if used) for controlling the Rive animation or interactivity.
 - **Rive Web Runtime** – for embedding the `.riv` file on the webpage.
 
-## 📁 Project Structure
+
 
